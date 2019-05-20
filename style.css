@@ -31,12 +31,12 @@ body
 }
 .open .layer:nth-child(1)
 {
-	background: #000;
+	background: #23E81EFF;
 	z-index: 2;
 }
 .open .layer:nth-child(2)
 {
-	background:#7AE5E0F3;
+	background:#D628B6FF;
 	animation-delay: 1s;
 	z-index: 1;
 }
