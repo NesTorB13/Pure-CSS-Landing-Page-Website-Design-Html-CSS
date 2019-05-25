@@ -36,7 +36,7 @@ body
 }
 .open .layer:nth-child(2)
 {
-	background: #03a9f4;
+	background:#7AE5E0F3;
 	animation-delay: 1s;
 	z-index: 1;
 }
